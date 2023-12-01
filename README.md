@@ -1,4 +1,4 @@
-# interncareer(task 1)
+# YOUTUBE STREAMERS ANALYSIS
 This repositary is created to upload the task 1 project of interncareer.
 Dataset : Top 1000 Youtubers statistics
 
