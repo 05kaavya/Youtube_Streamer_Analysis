@@ -1,5 +1,5 @@
 # YOUTUBE STREAMERS ANALYSIS
-This repositary is created to upload the task 1 project of interncareer.
+
 Dataset : Top 1000 Youtubers statistics
 
 Description: This dataset contains valuableinformation about the top YouTube streamers,including their ranking, categories, subscribers,country, visits, likes, comments, and more.Your task is to perform a comprehensiveanalysis of the dataset to extract insightsabout the top YouTube content creators.
